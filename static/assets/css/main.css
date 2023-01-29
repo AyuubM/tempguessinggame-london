@@ -1,0 +1,14 @@
+.container-fluid {
+  position: absolute;
+  top: 200px;
+  right: 50px;
+}
+
+.feedback {
+  top: 200px;
+  right: 50px;
+}
+
+.body {
+background-color: #EAF6F6
+}
